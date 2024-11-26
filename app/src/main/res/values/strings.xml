@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">String</string>
+    <string name="tcu_string">TCU</string>
+    <string name="cict_string">CICT</string>
+    <string name="myprofile_string">MY PROFILE</string>
+    <string name="LastName">Last Name</string>
+
+    <string name="tcuArticle">Taguig City University (TCU; Filipino: Pamantasan ng Lungsod ng Tagig) is a municipal public university located in Central Bicutan, Taguig. It is funded by the City Government of Taguig. TCU was established in 2006 by the City Government of Taguig by virtue of Ordinance No. 29 Series of 2004</string>
+    <string name="cictArticle">This article is about the defunct government agency. For the current government department, see Department of Information and Communications Technology. The Commission on Information and Communications Technology (CICT) (Filipino: Komisyon sa Teknolohiyang Pang-impormasyon at Pangkomunikasyon) was the primary policy, planning, coordinating, implementing, regulating, and administrative entity of the executive branch of the Philippine Government that would promote, develop, and regulate integrated and strategic information and communications technology (ICT) systems and reliable and cost-efficient communication facilities and services.
+
+Established in 2004 by President Gloria Macapagal Arroyo, it was abolished in 2011 by her successor, Benigno Aquino III and folded with the Department of Science and Technology. In turn, it was supplanted by the Department of Information and Communications Technology.</string>
+    <string name="t_fragment">3rd blank fragment</string>
+
+</resources>

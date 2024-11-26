@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ThirdFragment">
+
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:text="First Name"
+        android:layout_centerHorizontal="true"
+        />
+    <EditText
+        android:id="@+id/editTextText2"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:inputType="text"
+        android:text="@string/LastName"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editTextText"
+        />
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:inputType="text"
+        android:text="Email"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editTextText2"
+        />
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:inputType="text"
+        android:text="Password"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/editTextText3"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Update Profile"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/editTextText4"
+
+        />
+
+</RelativeLayout>
